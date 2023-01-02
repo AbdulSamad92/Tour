@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    background-color: grey;
+    margin: '0' auto;
+}
+.first {
+    background: cyan;
+    margin: 2px;
+}
