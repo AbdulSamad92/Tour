@@ -6,7 +6,7 @@
 .first {
     background: cyan;
     margin: 10px;
-    display: flex;
+    display: block;
     justify-content: center;
 }
 .card_img {
