@@ -7,13 +7,13 @@
     background: cyan;
     margin: 0 auto;
     display: block;
-    justify-content: center;
+    text-align: center;
 }
 .card_img {
     width: 50%;
     height: 800px;
     display: block;
-    justify-content: space-between;
+    text-align: center;
 }
 #top {
     margin-top: 120px;
@@ -50,4 +50,8 @@ li:hover {
 li > a {
     text-decoration: none;
     color: black;
+}
+.trip_img {
+    width: 200px;
+    height: 60px;
 }
