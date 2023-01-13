@@ -65,17 +65,13 @@ i {
 }
 .box {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     background-color: beige;
     margin: 12px;
     padding: 12px;
     height: 400px;
-    max-width: 800px;
-    min-width: 400px;
 }
 .card_img {
     width: 50%;
     height: 400px;
-    margin: 0 auto;
-    display: block;
 }
